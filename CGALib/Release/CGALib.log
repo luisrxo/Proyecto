@@ -1,0 +1,10 @@
+﻿  FontTypeRendering.cpp
+c:\users\luis_\downloads\pf\cgalib\src\fonttyperendering.cpp(128): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+c:\users\luis_\downloads\pf\cgalib\src\fonttyperendering.cpp(134): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+     Creando biblioteca C:\Users\luis_\Downloads\PF\Release\CGALib.lib y objeto C:\Users\luis_\Downloads\PF\Release\CGALib.exp
+  Generando código
+  3 of 1485 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  CGALib.vcxproj -> C:\Users\luis_\Downloads\PF\Release\CGALib.dll
